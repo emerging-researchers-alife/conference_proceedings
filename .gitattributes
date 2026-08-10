@@ -1,1 +1,2 @@
 ALIFE2026Proceedings[[:space:]]4.pdf filter=lfs diff=lfs merge=lfs -text
+ALIFE2026Proceedings.pdf filter=lfs diff=lfs merge=lfs -text
