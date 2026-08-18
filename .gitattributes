@@ -17,3 +17,13 @@ P11_Proxy_Exploitation_Ma.pdf filter=lfs diff=lfs merge=lfs -text
 P16_Emergent_Culture_Jones.pdf filter=lfs diff=lfs merge=lfs -text
 P18_Observer_Based_Pattern_Discovery_Buhl.pdf filter=lfs diff=lfs merge=lfs -text
 P35_Dreaming_Itself_Li.pdf filter=lfs diff=lfs merge=lfs -text
+P01_Weaving_Cellular_Automata_Lin.pdf filter=lfs diff=lfs merge=lfs -text
+P15_OpenLife.pdf filter=lfs diff=lfs merge=lfs -text
+P20_Nintendo_Family_Computer_Bugs.pdf filter=lfs diff=lfs merge=lfs -text
+P24_Signals_to_Structure.pdf filter=lfs diff=lfs merge=lfs -text
+P27_Integrated_Alignment_Pigozzi.pdf filter=lfs diff=lfs merge=lfs -text
+P12_BraiNCA.pdf filter=lfs diff=lfs merge=lfs -text
+P17_Topology_That_Learns_Cutler_v2.pdf filter=lfs diff=lfs merge=lfs -text
+P19_Social_Reasoning_in_LLMs_Takumi.pdf filter=lfs diff=lfs merge=lfs -text
+P25_ZKWorm.pdf filter=lfs diff=lfs merge=lfs -text
+P28_Connectome_Driven_C-elegans_Fink.pdf filter=lfs diff=lfs merge=lfs -text
